@@ -1,3 +1,5 @@
 test1.txt
 Dette er test1 - version1
-Dette er test 2
+Dette er test1 - version2
+Dette er test1 - version3
+
