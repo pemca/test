@@ -1,3 +1,4 @@
 test2.txt
 Dette er test2 - version1
+Dette er test2 - version2a
 
